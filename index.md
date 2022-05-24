@@ -37,4 +37,3 @@ This term likely comes from the word sprite, which refers to a concept used in c
 
 </body>
 </html>
-
